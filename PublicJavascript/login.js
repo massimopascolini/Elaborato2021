@@ -17,7 +17,7 @@ function login() {
                             window.location.href="../";
                             break;
                         case 1:
-                            window.location.href="../";
+                            window.location.href="../Home/homeNegoziante.php";
                             break;
                         case 2:
                             window.location.href="../Home/homeAmministratore.php";

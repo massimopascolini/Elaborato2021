@@ -19,7 +19,7 @@ try {
         $stmt->bindValue(":cognome",$parametri->cognome);
         $stmt->bindValue(":email",$parametri->email);
         $stmt->bindParam(":pwd",$pwd_crypt);
-        $stmt->bindValue(":dataN",$parametri->DatadiNascita);
+        $stmt->bindValue(":dataN",$parametri->d_nascita);
         $stmt->bindValue(":luogoN",$parametri->LuogoNascita);
         $stmt->bindValue(":sesso",$parametri->Sesso);
         $stmt->bindValue(":cf",$parametri->codiceFiscale);
