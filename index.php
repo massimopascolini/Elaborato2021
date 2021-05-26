@@ -15,7 +15,6 @@
 </head>
 
 <body class="text-center">
-
 <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
     <header class="masthead mb-auto">
         <div class="inner">
@@ -29,10 +28,10 @@
     </header>
 
     <main role="main" class="inner cover">
-        <h1 class="cover-heading">Cover your page.</h1>
-        <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+        <h1 class="cover-heading">MANGIA A KM 0</h1>
+        <p class="lead">Ordina i nostri prodotti a Km 0 e riceverai uno sconto del 5% su un minimo di 50€ spesi</p>
         <p class="lead">
-            <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
+        
         </p>
     </main>
 
